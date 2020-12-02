@@ -15,3 +15,4 @@
   
 # Associations
   - X an Actor has many characters, Character belong to Actor
+  - 
