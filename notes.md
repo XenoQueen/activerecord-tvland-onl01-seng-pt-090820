@@ -15,4 +15,4 @@
   
 # Associations
   - X an Actor has many characters, Character belong to Actor
-  - A show has many 
+  - A show has many characters, Character belongs to Show
