@@ -14,4 +14,4 @@
   - is this a method we need to build?
   
 # Associations
-  - an Actor has many characters, Character belong to Actor
+  - X an Actor has many characters, Character belong to Actor
